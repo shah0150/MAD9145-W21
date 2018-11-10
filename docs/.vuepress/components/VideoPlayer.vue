@@ -12,8 +12,8 @@
         name: 'ContactCard',
         props: {
             title: { type: String, required: true },
-            mp4Url: { type: String, default: '/mad9022/media/samplevideo.mp4' },
-            webmUrl: { type: String, default: '/mad9022/media/samplevideo.webm' }
+            mp4Url: { type: String, default: '/media/samplevideo.mp4' },
+            webmUrl: { type: String, default: '/media/samplevideo.webm' }
         }
     }
 </script>
