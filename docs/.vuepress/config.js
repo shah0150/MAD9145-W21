@@ -45,10 +45,10 @@ module.exports = {
           title: 'Assignments',
           collapsable: true,
           children: [
-              ['/assignments/#research', 'Research & Planning'],
-              ['/assignments/#design', 'Design & Prototyping'],
-              ['/assignments/#development', 'Development & Testing'],
-              ['/assignments/#finalizing', 'Finalizing & Client Hand-Off']
+              ['/assignments/#research-planning', 'Research & Planning'],
+              ['/assignments/#design-prototyping', 'Design & Prototyping'],
+              ['/assignments/#development-testing', 'Development & Testing'],
+              ['/assignments/#finalizing-client-hand-off', 'Finalizing & Client Hand-Off']
           ]
       }
     ],
