@@ -1,7 +1,7 @@
 module.exports = {
-  title: 'MAD9014',
-  description: 'Cross-Platform App Development I',
-  base: '/mad9014/',
+  title: 'MAD9145',
+  description: 'Client Applied Projects',
+  base: '/mad9145-w19/',
   themeConfig: {
     serviceWorker: {
       updatePopup: true
@@ -45,9 +45,10 @@ module.exports = {
           title: 'Assignments',
           collapsable: true,
           children: [
-              ['/assignments/#exercises', 'Exercises'],
-              ['/assignments/#quizzes', 'Quizzes'],
-              ['/assignments/#projects', 'Projects']
+              ['/assignments/#research', 'Research & Planning'],
+              ['/assignments/#design', 'Design & Prototyping'],
+              ['/assignments/#development', 'Development & Testing'],
+              ['/assignments/#finalizing', 'Finalizing & Client Hand-Off']
           ]
       }
     ],

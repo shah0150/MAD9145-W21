@@ -1,14 +1,21 @@
-# MAD9014 - Module 1
+# MAD9145 - Week 1
 
-## Testing Video
+## Course Overview
 
-- Sample text above the video
+- text
 
-<VideoPlayer 
-  title="Stop trying to make fetch happen"
-  mp4-url=""
-  webm-url="/mad9014/media/fetch.79da5d42b666.webm"
-/>
+## Team Identity
 
-- Sample text below the video
-- videos are stored in .vuepress/public/media/
+- 
+
+## Status Meetings
+
+- 
+
+## 
+
+- 
+
+## Journey Mapping
+
+- 

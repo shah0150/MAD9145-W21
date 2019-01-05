@@ -1,10 +1,11 @@
 # Contacts
 
+## Instructors
 
 <ContactCard 
   name="Steve Griffith"
   title="Program Coordinator"
-  img-url="/mad9022/steve-griffith.jpeg"
+  img-url="/mad9145-w19/steve-griffith.jpeg"
   bio="Coordinator of the Mobile Application Design & Development Program at Algonquin College."
   :details="[
       { label: 'email', value: 'griffis@algonquincollege.com' }, 
@@ -14,7 +15,19 @@
     ]"
 />
 
+<ContactCard 
+  name="Su Cheng Lee"
+  title="Professor"
+  img-url="/mad9145-w19/HeadshotPlaceholder.png"
+  bio="UX and UI Instructor in the Mobile Application Design & Development Program at Algonquin College."
+  :details="[
+      { label: 'email', value: 'lees1@algonquincollege.com' }, 
+      { label: 'github', value: 'lees1' }
+    ]"
+/>
 
+
+## Student Support Specialists
 
 <ContactCard 
   name="Deborah Buck"

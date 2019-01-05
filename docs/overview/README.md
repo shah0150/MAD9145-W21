@@ -1,7 +1,7 @@
-# MAD9014 - Cross-Platform App Dev I
+# MAD9145 - Applied Client Projects
 
-- 4 hours/week (instructional activity)
-- Two 2 hour classes per week
+Students in teams will complete design and development projects for live clients.
+
 
 ## Course Description
 
@@ -9,48 +9,14 @@
 
 ## Student Workload
 
-- 4hrs/week lecture/lab
-- 4hrs/week prep/practice/assignments outside of class
+- 3 hours/week (instructional activity)
+- 30 minutes per week (status meetings)
+- 30 minutes per week (client meetings)
+- Minimum 8 hours per week team and individual work
 
 ## Schedule
 
-Room T127
+Section 300:  Tuesdays   :clock2: 9am - 12pm  CLASS in T127 
+              Thursdays  :clock2: 12pm - 3pm  STATUS MEETINGS 2nd Floor DARE district
 
-Section 010: two days  :clock2:
-
-Section 020: two days  :clock2:
-
-## Technology Stack
-
-<section style="
-  display: grid; 
-  grid-template-columns: repeat( auto-fit, minmax(160px, 1fr) );
-  grid-template-rows: 130px;
-  grid-auto-rows: 130px;
-  justify-items: center;
-  align-items: center;
-  grid-gap: 1.5rem;
-  margin-bottom: 2rem;">
-
-<img src="../assets/javascript.svg" alt="NodeJS" 
-     style="width: 100%; height: auto; max-height: 130px; max-width: 160px;
-            align-self: start; margin-top: .95rem;">
-
-<img src="../assets/cordova-black.png" alt="Cordova" 
-     style="width: 100%; height: auto; max-height: 130px; max-width: 160px;align-self: start; margin-top: .95rem;">
-          
-<img src="../assets/html-5.svg" alt="HTML 5" 
-     style="width: auto; height: 70%; max-height: 130px;
-            align-self: end; margin-bottom: .8rem;">
-
-
-</section>
-
-## Core Topics
-
-- ES6
-- Cordova Framework
-- Intermediate JavaScript
-- Progressive Web Apps
-- HTML5 APIs
-- Hybrid Applications
+              
