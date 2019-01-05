@@ -18,8 +18,8 @@ Students in teams will complete design and development projects for live clients
 
 Section 300:  
 
-    Tuesdays   :clock2: 9am - 12pm  CLASS in T127 
+    Tuesdays   9am - 12pm  CLASS in T127 
 
-    Thursdays  :clock2: 12pm - 3pm  STATUS MEETINGS 2nd Floor DARE district
+    Thursdays  12pm - 3pm  STATUS MEETINGS 2nd Floor DARE district
 
               
