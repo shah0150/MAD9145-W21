@@ -6,10 +6,10 @@
 
 1. [Team Identity](./identity.md)
 2. [Client Responses](./responses.md)
-3. [Personas](./personas.md)
-4. [Usage Scenarios](./scenarios.md)
-5. [User Research](./user-research.md)
-6. [Product Research](./product-research.md)
+3. [User Research](./user-research.md)
+4. [Product Research](./product-research.md)
+5. [Personas](./personas.md)
+6. [Usage Scenarios](./scenarios.md)
 7. [Information Architecture](./ia.md)
 8. [Paper Prototypes](./prototypes.md)
 
@@ -49,7 +49,7 @@
 ## Finalizing & Client Hand-Off
 
 1. [Pre-Re/Act Demo](./)
-2. [Applied Research Day](./)
+2. [ARIE RE/ACTION Day](./)
 3. [Bug Fix Results & Feature Roadmap](./)
 4. [Gantt Chart](./)
 5. [Final Code Submission](./)
