@@ -4,7 +4,7 @@
 
 Based on your work in MAD9034 last term, everyone should be familiar with the process of creating Personas.
 
-Here are some sample Personas - [samplePersonas.pdf](./samplePersonas.pdf)
+Here are some sample Personas - [samplePersonas.pdf](./assets/samplePersonas.pdf)
 
 Remember that you can use your notes from MAD9034 as a reference for all this work. 
 
