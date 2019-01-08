@@ -1,6 +1,6 @@
 # MAD9145 Assignments
 
-## Research & Planning
+## Research & Planning (30%)
 
 <Badge text="UX and UI Deliverables" />
 
@@ -19,7 +19,7 @@
 2. [High Level Architecture](./architecture.md)
 
 
-## Design & Prototyping
+## Design & Prototyping (20%)
 
 <Badge text="UX and UI Deliverables" />
 
@@ -33,7 +33,7 @@
 1. [Required Features and Platforms](./features.md)
 2. [Technology Research Results](./tech-research.md)
 
-## Development & Testing
+## Development & Testing (20%)
 
 <Badge text="UX and UI Deliverables" />
 
@@ -46,7 +46,7 @@
 2. [Gantt Chart Progress](./)
 
 
-## Finalizing & Client Hand-Off
+## Finalizing & Client Hand-Off (30%)
 
 1. [Pre-Re/Act Demo](./)
 2. [ARIE RE/ACTION Day](./)
