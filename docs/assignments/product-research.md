@@ -1,4 +1,6 @@
-## Product Research Assignment
+# Product Research Assignment
+
+## Description
 
 Conduct product research to evaluate how a product might fit into the  market; to learn what the desired characteristics might be; to help your client understand what the customers really want and what is likely to succeed in the market using available technology; and to refine new product ideas. 
 

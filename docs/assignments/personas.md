@@ -1,4 +1,6 @@
-## Personas Assignment
+# Personas Assignment
+
+## Description
 
 Your team must create a set of Personas for your project.
 
