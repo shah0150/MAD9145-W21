@@ -33,7 +33,7 @@ Each team will also need to come up with a code of behaviour that all team membe
 
 Every team should have a decent idea what their project is now but you need to have a full meeting with your client as soon as possible to really start to understand what you need to do. This meeting will lay the ground work for your research work during this first phase.
 
-[Client Questions](./questions.md)
+[List of Possible Client Questions](./questions.md)
 
 ## Client Terms & Conditions
 
