@@ -64,6 +64,16 @@ We will randomly select the time slot for each team using this:
 [Meeting Picker](https://prof3ssorst3v3.github.io/meeting-picker/)
 We will run this in class.
 
+#### Status Meeting Times
+
+1. 12:00pm  Kemi
+2. 12:30pm  Jervin
+3.  1:00pm  Marcus
+4.  1:30pm  Danilo
+5.  2:00pm  Jordan
+
+Please plan to be 10 minutes early for the meeting. The Status meetings might run late or finish early. If you are there early and the group before finished early, then you have a chance to use the extra time for your meeting.
+
 ## Software
 
 While much of the software that you use will depend on your project, we will be using Wrike as the project management software. [Wrike website](https://www.wrike.com/)
