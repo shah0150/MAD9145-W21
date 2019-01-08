@@ -52,7 +52,7 @@ Here is a copy of the [Terms & Conditions document](/mad9145-w19/terms-and-condi
 
 ## Status Meetings
 
-Each Thursday between 12pm and 3pm there will be team status meetings. These meetings will be held in the DARE District. Each team will have a 30 minute window for their meeting.
+Each Thursday between 12pm and 3pm there will be team status meetings. These meetings will be held in the DARE District in room C278. Each team will have a 30 minute window for their meeting.
 
 Some of these meetings will be where you submit deliverables. Some will give you an opportunity to ask questions that are specific to your team's project.
 
