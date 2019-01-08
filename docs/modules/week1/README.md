@@ -64,7 +64,7 @@ We will run this in class.
 
 ## Software
 
-While much of the software that you use will depend on your project, we will be using Wrike as the project management software.
+While much of the software that you use will depend on your project, we will be using Wrike as the project management software. [Wrike website](https://www.wrike.com/)
 
 The communication software that your team uses can be chosen by your team.
 
