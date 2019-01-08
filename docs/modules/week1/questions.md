@@ -1,4 +1,4 @@
-#Questions for Clients
+# Questions for Clients
 
 Between the first and second classes of the term, each team will need to set up a meeting time with their client and hold an intial fact-finding meeting. The purpose of this meeting is to fully understand the project, from the perspective of the client.
 
