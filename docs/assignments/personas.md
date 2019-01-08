@@ -2,7 +2,7 @@
 
 ## Description
 
-Your team must create a set of Personas for your project.
+Your team has collected information from user research, you are to create a set of Personas for your project.
 
 Based on your work in MAD9034 last term, everyone should be familiar with the process of creating Personas.
 
