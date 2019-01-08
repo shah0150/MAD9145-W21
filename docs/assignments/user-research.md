@@ -4,4 +4,5 @@
 
 ## Submission
 
-- File name: _personaResearch-groupname.xlsx_
+Submit your finished work through BS LMS.
+- File name: _personaResearch-groupname.xlsx_ 

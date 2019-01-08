@@ -10,6 +10,7 @@ Remember that you can use your notes from MAD9034 as a reference for all this wo
 
 There should be a minimum of four Personas that you create for your project. The Personas should cover all aspects of your project from Client users to Administrators. 
 
-Submit a PDF version of your finished Personas files.
+## Submission
 
+Submit a PDF version of your finished Personas through BS LMS. 
 - File name: _personas-groupname.pdf_
