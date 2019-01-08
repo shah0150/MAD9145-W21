@@ -1,6 +1,6 @@
 {
-  "name": "mad9014",
-  "description": "Cross-Platform App Development I",
+  "name": "mad9145-w19",
+  "description": "Applied Projects",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -10,6 +10,6 @@
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
-    "gitty": "git add -A && git commit -m 'general update' && git push origin master"
+    "gitty": "git add -A && git commit -m \"general update\" && git push origin master && exit 0"
   }
 }
