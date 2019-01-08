@@ -1,6 +1,6 @@
 # MAD9145 Assignments
 
-## Research & Planning (30%)
+## Research & Planning (30%) 
 
 <Badge text="UX and UI Deliverables" />
 
