@@ -4,10 +4,10 @@
 
 There are four phases to the client applied project course.
 
-1. Research & Planning <Badge text="30%" />
-2. Design & Prototyping <Badge text="20%" />
-3. Development & Testing <Badge text="20%" />
-4. Finalizing & Client Hand-Off <Badge text="30%" />
+1. Research & Planning <Badge text="30% of final grade" />
+2. Design & Prototyping <Badge text="20% of final grade" />
+3. Development & Testing <Badge text="20% of final grade" />
+4. Finalizing & Client Hand-Off <Badge text="30% of final grade" />
 
 The Phases are roughly equivalent to the four months in the Semester. See the Badge beside each phase name for the weighting of the assignments during that phase.
 
@@ -32,6 +32,23 @@ Each team will also need to come up with a code of behaviour that all team membe
 ## Client Meeting
 
 Every team should have a decent idea what their project is now but you need to have a full meeting with your client as soon as possible to really start to understand what you need to do. This meeting will lay the ground work for your research work during this first phase.
+
+## Client Terms & Conditions
+
+All the clients have signed off on the terms and conditions for the project. 
+
+The biggest things to note are that:
+
+At the end of the semester the client owns the intellectual property of the app;
+
+The client pays no money for the work but they have agreed to give their time to work with your team;
+
+You will be allowed to use the finished app as part of your portfolio;
+
+We will not be putting the app on the App Store or Google Play, but the client may opt to hire one or more team members to do this or future work on the app after the semester ends;
+
+Here is a copy of the [Terms & Conditions document](/mad9145-w19/terms-and-conditions-final-w19.pdf)
+
 
 ## Status Meetings
 
