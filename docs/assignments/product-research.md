@@ -7,4 +7,6 @@
 * Competitive analysis
 * Brand research
 
+Remember that you can use your notes from MAD9034 as a reference for all this work.
+
 - File name: _productResearch-groupname.docx_
