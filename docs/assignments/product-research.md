@@ -10,4 +10,7 @@ Content to include:
 
 Remember that you can use your notes from MAD9034 as a reference for all this work.
 
+## Submission
+
+Submit your finished work through BS LMS.
 - File name: _productResearch-groupname.docx_
