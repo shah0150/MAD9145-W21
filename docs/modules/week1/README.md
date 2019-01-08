@@ -29,6 +29,21 @@ We will discuss and agree on a late / absence penalty policy during the first cl
 
 Each team will also need to come up with a code of behaviour that all team members agree to. This policy should cover things like responsibility for assignment submissions, communication with clients and each other, attendance at team meetings, attendance at team work sessions, turn around time for required work, and so on.
 
+### Course Unexcused Absence Policy
+
+These are the penalties for missing a class, missing a status meeting, missing a client meeting or showing up more than 30 minutes late for any of these. 
+
+If you are going to be late or absent, you MUST let your team leader know BEFORE the start time of the event.
+
+- 1st: Warning
+- 2nd: 5% off your final grade
+- 3rd: Meeting with Steve and/or Su Cheng plus an additional 5% penalty.
+- 4th: 20% off your final grade
+- 5th: Removed from your team.
+
+**Additional penalties may apply, depending on your team's Code of Conduct.**
+
+
 ## Client Meeting
 
 Every team should have a decent idea what their project is now but you need to have a full meeting with your client as soon as possible to really start to understand what you need to do. This meeting will lay the ground work for your research work during this first phase.
