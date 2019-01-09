@@ -4,7 +4,7 @@
 
 At this stage of the UX (user-centered) design process, you have gathered user research data and created personas and usage scenarios. Using this information you begin to create the information architecture for your app. Review your competitor research to see what features other products have and how they are organized. Make sure your app keeps your personas in mind.
 
-Your IA should allow your team to evaluate the importance of content, and structure your screens and information to display what’s most important.
+Your IA is the framework of your app to allow your team to evaluate the importance of content, and structure your screens and information to display what’s most important.
 
 Based on your work in MAD9034 last term, everyone should be familiar with the process of creating Information Architecture.
 
