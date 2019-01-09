@@ -17,9 +17,8 @@ Submit your finished work through BS LMS.
 
 ### IA Checklist: 
 
-* IA diagram contains app name, primary navigation, and secondary navigation
+* IA diagram contains app name and shows the core navigation system of the entire app.
 * It includes a legend. It is easy to follow and understand. It uses user-friendly words.
-* It shows the core navigation system of the entire app. 
 * It matches your persona's goals and supports task flow of your scenarios.
 * It is focused, logical, and well-structured. 
 * It contains proper categories.
