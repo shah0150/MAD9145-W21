@@ -10,8 +10,8 @@
 4. [Product Research](./product-research.md) - Draft Week 2, Due Week 3
 5. [Personas](./personas.md) - Draft Week 2, Due Week 3
 6. [Usage Scenarios](./usage-scenarios.md) - Draft Week 3, Due Week 4
-7. [Information Architecture](./ia.md) - 
-8. [Paper Prototypes](./prototypes.md) - 
+7. [Information Architecture](./information-architecture.md) - 
+8. [Paper Prototypes](./paper-prototype.md) - 
 
 <Badge text="Development Deliverables" />
 
