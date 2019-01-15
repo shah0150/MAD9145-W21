@@ -39,6 +39,13 @@ Here is a [Sample Agenda document](/mad9145-w19/Meeting-Agenda.docx)
 
 Here is a [Sample Memo document](/mad9145-w19/Memo-Example.pdf)
 
+Meeting Minutes can also be created based on the Meeting Agenda document. Things that you want to record from each meeting include:
+
+- Who was in attendance
+- What was discussed (this comes from the agenda)
+- What were the action items from the meeting (Who is doing what)
+
+
 ## Learning To Use Wrike
 
 Your [Wrike](https://www.wrike.com) accounts will soon be live. You will be receiving invitations to join an account and you will be assigned to a project. The team lead and design lead will be set as the owners of the project but everyone on the team will be invited to participate in the project.
