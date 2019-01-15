@@ -45,6 +45,8 @@ Meeting Minutes can also be created based on the Meeting Agenda document. Things
 - What was discussed (this comes from the agenda)
 - What were the action items from the meeting (Who is doing what)
 
+REMEMBER: You can also record each meeting with your phone or laptop.
+
 
 ## Learning To Use Wrike
 
