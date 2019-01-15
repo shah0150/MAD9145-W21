@@ -17,6 +17,7 @@
 
 1. [Data Structures](./data-structures.md) - Due Week 5
 2. [High Level Architecture](./architecture.md) - Due Week 4
+3. [Research and Proof of Concept List](./poc.md) - Due Week 3
 
 
 ## Design & Prototyping (20%)
