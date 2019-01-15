@@ -146,7 +146,7 @@ To see your project's Gantt (Links to an external site.)Links to an external sit
 
 //TODO: all project students
 
-Please read this article: [https://www.wrike.com/gantt-chart/](https://www.wrike.com/gantt-chart/).
+Please read this article about Gantt Charts: [https://www.wrike.com/gantt-chart/](https://www.wrike.com/gantt-chart/).
 
 ##References
 
