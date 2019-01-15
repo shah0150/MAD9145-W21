@@ -26,6 +26,9 @@ There are many roles that a team member can take during the project. Nobody on t
 - Security tester
 - Technical Writer
 
+Each team will collaboratively be allowed to assign all the roles to members of the team. It will be a balance of personal preference and project needs.
+
+
 ## Sample Meeting Agenda
 
 When you are going to hold meetings with your clients, you should give them notice of the meeting at least three days prior. The agenda for the meeting should be sent to the client at least 24 hours before the meeting. This will give them a chance to review the agenda, propose changes, and prepare any required documents for the meeting.
