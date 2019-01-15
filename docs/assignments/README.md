@@ -15,9 +15,9 @@
 
 <Badge text="Development Deliverables" />
 
-1. [Data Structures](./data-structures.md) - Due Week 5
-2. [High Level Architecture](./architecture.md) - Due Week 4
-3. [Research and Proof of Concept List](./poc.md) - Due Week 3
+1. [Data Structures](./data-structures.md) - Draft Week 4, Due Week 5
+2. [High Level Architecture](./architecture.md) - Draft Week 3, Due Week 4
+3. [Research and Proof of Concept List](./poc.md) - Draft Week 3
 
 
 ## Design & Prototyping (20%)
@@ -26,13 +26,13 @@
 
 1. [UI Wireframes](./wireframes.md) - 
 2. [Visual Design](./visual-design.md) - 
-3. [Interactive Visual MockUp](./mockup.md) - 
-4. [Client Midterm Survey](./) - 
+3. [Interactive Visual MockUp](./mockup.md) - Due the week after Reading Week
+4. [Client Midterm Survey](./) - Will be completed by client after your Interactive Visual Mockup
 
 <Badge text="Development Deliverables" />
 
-1. [Required Features and Platforms](./features.md) - 
-2. [Technology Research Results](./tech-research.md) - 
+1. [Required Features and Platforms](./features.md) - Due before Reading Week.
+2. [Technology Research Results](./tech-research.md) - Due before Reading Week 
 
 ## Development & Testing (20%)
 
