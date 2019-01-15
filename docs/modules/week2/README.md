@@ -36,4 +36,15 @@ Here is a [Sample Agenda document](/mad9145-w19/Meeting-Agenda.docx)
 
 Here is a [Sample Memo document](/mad9145-w19/Memo-Example.pdf)
 
+## Learning To Use Wrike
+
+Your [Wrike](https://www.wrike.com) accounts will soon be live. You will be receiving invitations to join an account and you will be assigned to a project. The team lead and design lead will be set as the owners of the project but everyone on the team will be invited to participate in the project.
+
+There is a free student version of Wrike, however, this is limited to 5 people on a team. 
+
+We will be using a sponsored version of their system where everyone can be invited, including Su Cheng and Steve.
+
+[Learn More about Wrike](./wrike.md)
+
+
 
