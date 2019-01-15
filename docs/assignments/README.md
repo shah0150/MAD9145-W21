@@ -4,12 +4,12 @@
 
 <Badge text="UX and UI Deliverables" />
 
-1. [Team Identity](./identity.md) - Due Week 2
-2. [Client Responses](./responses.md) - Due Week 2
-3. [User Research](./user-research.md) - Due Week 3
-4. [Product Research](./product-research.md) - Due Week 3
-5. [Personas](./personas.md) - Due Week 3
-6. [Usage Scenarios](./scenarios.md) - Due Week 4
+1. [Team Identity](./identity.md) - Draft Week 1, Due Week 2
+2. [Client Responses](./responses.md) - Draft Week 1, Due Week 2
+3. [User Research](./user-research.md) - Draft Week 2, Due Week 3
+4. [Product Research](./product-research.md) - Draft Week 2, Due Week 3
+5. [Personas](./personas.md) - Draft Week 2, Due Week 3
+6. [Usage Scenarios](./scenarios.md) - Draft Week 3, Due Week 4
 7. [Information Architecture](./ia.md) - 
 8. [Paper Prototypes](./prototypes.md) - 
 
