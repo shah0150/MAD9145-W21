@@ -65,10 +65,11 @@ We will be using a sponsored version of their system where everyone can be invit
 - Get familiar with the features in Wrike, and how tasks will be assigned.
 - Decide on a communication tool for your team: Slack, Wrike, etc.
 - Do you have a standing meeting time with your client established yet?
-- Submit your Client Responses 
-- Submit your Team Branding 
-- Finish your User Research
-- Finish your Product Research
-- Start compiling your Technology Research List
+- Submit your Client Responses Tuesday
+- Submit your Team Branding Tuesday
+- Finish your User Research for Thursday
+- Finish your Product Research for Thursday
+- Team Code of Conduct for Thursday
+- Start compiling your Technology Research List to discuss on Thursday
 - Start working on Personas
 - Start working on Usage Scenarios
