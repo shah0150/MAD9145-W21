@@ -50,4 +50,16 @@ We will be using a sponsored version of their system where everyone can be invit
 [Learn More about Wrike](./wrike.md)
 
 
+## Things To Do in Week 2
 
+- Get your team into Wrike.
+- Get familiar with the features in Wrike, and how tasks will be assigned.
+- Decide on a communication tool for your team: Slack, Wrike, etc.
+- Do you have a standing meeting time with your client established yet?
+- Submit your Client Responses 
+- Submit your Team Branding 
+- Finish your User Research
+- Finish your Product Research
+- Start compiling your Technology Research List
+- Start working on Personas
+- Start working on Usage Scenarios
