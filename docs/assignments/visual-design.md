@@ -6,12 +6,12 @@ Based on your mid-fidelity wireframes, add visual design for your mobile app usi
 
 Ensure your visual design document is organized for the interactive visual mockup tool: InVision or Adobe Xd or Sketch. 
 
-Your submission will include a mimimal of 3 key screens in ONE PDF file. You are being marked on how you apply the elements of design to achieve and demonstrate the principles of design to support good usability.
+Your submission will include a minimum of 3 key screens in ONE PDF file. We will check how well you apply the elements of design to achieve and demonstrate the principles of design to support good usability and brand strategy.
 
 ## References
 
 1. MAD9020 - UI Design for Mobile
-2. MAD9034 Course Notes (week 11)
+2. MAD9034 Course Notes (Week 11)
 - [MAD9034 Course Slides](https://goo.gl/JKcRx7)
 
 ## Submission

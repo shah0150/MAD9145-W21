@@ -1,15 +1,15 @@
-# Interactive Visual Mockup Assignment
+# Interactive Visual Mockups Assignment
 
 ## Description
 
-Based on your approved visual design and continuous UI detailed design, you are to produce interactive visual design mockup to demonstrate the UI design and interaction of your mobile app. 
+Based on your approved visual design and continuous UI detailed design, you are to produce interactive visual mockups to demonstrate the functionality, user flow, and interaction design of your mobile app. 
 
-The interactive visual mockup tells the same story of the usage scenarios. This interactive mockup reveals to the client for the first time your team's vision as to how your mobile solution will look, feel, and navigate between screens.
+The interactive visual mockups tell the same story of the usage scenarios. Your interactive mockup reveals to the client for the first time your team's vision as to how your mobile solution will look, feel, and navigate between screens.
 
-## Things to verify
+## Things to complete
 
 1. Branding: integrated in the visual design
-2. Screen sizes: demonstrated to elicit a decision in the client meeting
+2. Screen sizes: demonstrated to elicit platform decision in the client meeting
 3. Design: complied with chosen platform design standards and guidelines
 4. Information Architecture: well-illustrated with clear navigation, labels, and content hierarchy
 5. Terminology: consistenly used and documented for client review
