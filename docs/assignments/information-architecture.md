@@ -9,6 +9,7 @@ Your IA is the framework of your app to allow your team to evaluate the importan
 Based on your work in MAD9034 last term, everyone should be familiar with the process of creating Information Architecture.
 
 ## References
+
 MAD9034 Course Notes
 - [MAD9034 Course Slides](https://goo.gl/JKcRx7)
 
