@@ -1,4 +1,4 @@
-# Wireframes Assignment
+# Paper Prototype Assignment
 
 ## Description
 
