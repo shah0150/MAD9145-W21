@@ -8,6 +8,8 @@ The wireframes tell the same story of the usage scenarios. The wireframes reveal
 
 Submit the first set of UI screens that support the main usage scenario(s) for the primary persona.  Screens may include Home screen, browse screen, detail screen, and more. Include annotation to explain user flow where is necessary. Your app will involve more screens, and you will continue to work on the detailed UI design. Your assignment submission at this point requires the 3 key screens and the flow of 1 usage scenario. 
 
+Make sure your wireframe document is organized for the interactive visual mockup tool: InVision or Adobe Xd or Sketch.
+
 ## Things to consider
 1. Branding: does the client already have brand? Must your team use it?
 2. Screen sizes: are you targeting one platform, or many? For example, just the iPad Retina or all products in the Samsung Galaxy series (i.e. phones and tablets)

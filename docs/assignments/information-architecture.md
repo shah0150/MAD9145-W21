@@ -15,9 +15,9 @@ MAD9034 Course Notes
 ## Submission
 
 Submit your finished work through BS LMS.
-- File name: _IAdiagram-groupname.pdf_
+- File name: _informationArchitecture-groupname.pdf_
 
-### IA Checklist: 
+### Information Architecture Checklist: 
 
 * IA diagram contains app name and shows the core navigation system of the entire app.
 * It includes a legend. It is easy to follow and understand. It uses user-friendly words.
