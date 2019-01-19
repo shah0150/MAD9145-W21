@@ -2,7 +2,7 @@
 
 ## Description
 
-Based on your mid-fidelity wireframes, add visual design for your mobile app using the UX visual design principles. Use the UI design tool your are familiar with to apply visual treatment to the same screens as your wireframe, this time adding visual design to increase usability. 
+Based on your mid-fidelity wireframes, add visual design for your mobile app using the UX visual design principles. Use the UI design tool your are familiar with to apply visual treatment to the same screens as your wireframe, this time adding visual design to **increase usability** and support brand consistency. 
 
 Ensure your visual design document is organized for the interactive visual mockup tool: InVision or Adobe Xd or Sketch. 
 
