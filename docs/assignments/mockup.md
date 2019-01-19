@@ -2,11 +2,9 @@
 
 ## Description
 
-Based on your approved visual design, continous work on UI detailed design, you are to p 
+Based on your approved visual design, continous work on UI detailed design, you are to produce interacitve visual design mockup to demonstrate the UI design and interaction of your mobile app. 
 
-The interactive visual mockup tells the same story of the usage scenarios. The interactive mockup reveals to the client for the first time your team's vision as to how your mobile solution will look, feel, and navigate between screens.
-
-Make sure your wireframe document is organized for the interactive visual mockup tool: InVision or Adobe Xd or Sketch.
+The interactive visual mockup tells the same story of the usage scenarios. This interactive mockup reveals to the client for the first time your team's vision as to how your mobile solution will look, feel, and navigate between screens.
 
 ## Things to verify
 
