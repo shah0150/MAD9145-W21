@@ -4,9 +4,9 @@
 
 You are now ready to convert your hand drawn paper prototype into a medium fidelity greyscale wireframe. Take this opportunity to improve on the application user interface and add detailed UI design to support good user experience. 
 
-The wireframes tells the same story of the usage scenarios. The wireframes reveal to the client for the first time your team's vision as to how your mobile solution will look, feel, and navigate between screens.
+The wireframes tell the same story of the usage scenarios. The wireframes reveal to the client for the first time your team's vision as to how your mobile solution will look, feel, and navigate between screens.
 
-Submit the first set of UI screens that support the main usage scenario(s) for the primary persona.  Screens may include Home screen, browse screen, detail screen, and more. Include annotation to explain user flow where is necessary. Your app will involve more screens, and you will continue to work on the detailed UI design. Your assignment submission at this point requires a minimal 3 key screens and 1 usage scenario. 
+Submit the first set of UI screens that support the main usage scenario(s) for the primary persona.  Screens may include Home screen, browse screen, detail screen, and more. Include annotation to explain user flow where is necessary. Your app will involve more screens, and you will continue to work on the detailed UI design. Your assignment submission at this point requires the 3 key screens and the flow of 1 usage scenario. 
 
 ## Things to consider
 1. Branding: does the client already have brand? Must your team use it?
