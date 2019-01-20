@@ -38,8 +38,8 @@
 
 <Badge text="UX and UI Deliverables" />
 
-1. [Usability Testing Plan](./) - 
-2. [Usability Testing Results](./) - 
+1. [Usability Testing Documentations](./test-documents.md) - 
+2. [Usability Testing Results](./test-results.md) - 
 
 <Badge text="Development Deliverables" />
 
