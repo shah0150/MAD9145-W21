@@ -9,7 +9,7 @@ Make sure your report leads to positive changes:
 * Organize and rank findings – Ensure the most important findings get the most attention.
 * Bring the data to life – Use direct quotes, videos, etc.
 * Include positive findings to help morale and to make sure the good parts are preserved.
-* Choose the right format for your audience: slides or word document 
+* Choose the right format for your audience: slides or texts.
 
 ## References
 
