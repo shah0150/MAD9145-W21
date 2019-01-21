@@ -34,7 +34,7 @@ module.exports = {
         collapsable: true,
         children: [
           '/modules/research-planning/',
-          '/modules/design-prototype/',
+          '/modules/design-prototyping/',
           '/modules/development-testing/',
           '/modules/finalizing-hand-off/'
         ]
