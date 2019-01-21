@@ -36,7 +36,7 @@ module.exports = {
           '/modules/research-planning/',
           '/modules/design-prototype/',
           '/modules/development-testing/',
-          '/modules/finalizing-hand-off'
+          '/modules/finalizing-hand-off/'
         ]
       },
       {
