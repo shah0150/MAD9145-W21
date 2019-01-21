@@ -202,6 +202,11 @@ Service Design is sometimes referred to as the Evolution of UX Design.
 [Learn More](./service-design.md)
 
 
+## Field Trip in Week 3
+
+We are arranging a trip to see the College's Virtual Reality (VR) Lab. Anyone who is interested in coming with us is welcome. If you are not interested then you can stay in the lab and continue to work on your Personas and Usage Scenarios.
+
+
 ## New `UX` Program at Algonquin
 
 We will be having a guest speaker come to our class in Week 3. He is the Coordinator of a new Program and is only coming for a few minutes to talk about the new Program starting this Fall - [Interdisciplinary Studies in Human-Centered Design](https://www.algonquincollege.com/mediaanddesign/program/interdisciplinary-studies-in-human-centred-design/)
