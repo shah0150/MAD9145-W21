@@ -1,14 +1,6 @@
 # MAD9145 - Week 3
 
-## Agile Methodology
+## Page Has Been Moved
 
-
-[Learn More](./agile.md)
-
-
-## Service Design
-
-Service Design is the Evolution of UX Design.
-
-[Learn More](./service-design.md)
+[Please go to](../research-planning/)
 
