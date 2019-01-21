@@ -2,13 +2,13 @@
 
 ## Description
 
-Use the completed interactive visual mockups to conduct usability testing, and determine the ease with which the app is usable by your target group. Research the satisfaction of the users with the app and discover more opportunities to improve the UI/UX design further.  
+Use the completed interactive visual mockup to conduct usability testing. You are to determine how easy the app is to use by your target users. Research the satisfaction of the users with the app and discover more opportunities to improve the UI/UX design further.  
 
 Prepare the following documents for usability testing:
 
 * Test plan 
 * Test script
-    * User scenarios (revise them if, needed.)
+    * User scenarios (revise them if needed.)
 * NDA
 * Test-ready Interactive visual mockups 
 
