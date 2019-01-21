@@ -8,15 +8,15 @@ The interactive visual mockups tell the same story of the usage scenarios. Your 
 
 ## Things to verify 
 
-1. Branding: integrated in the visual design
-2. Screen sizes: demonstrated to elicit platform decision in the client meeting
-3. Design: complied with chosen platform design standards and guidelines
-4. Information Architecture: well-illustrated with clear navigation, labels, and content hierarchy
-5. Terminology: consistenly used and documented for client review
-6. Layout: telling users where they are, what to focus, where to go next
-7. Controls: captured correctly for different types of information
-8. Fields: clearly identified for mandatory or optional input
-9. Annotations: included to communicate the design to the person reviewing it
+1. Branding: Integrated in the visual design
+2. Screen sizes: Demonstrated to elicit platform decision in the client meeting
+3. Design: Complied with chosen platform design standards and guidelines
+4. Information Architecture: Well-illustrated with clear navigation, labels, and content hierarchy
+5. Terminology: Used consistenly and documented for client review
+6. Layout: Telling users where they are, what to focus, where to go next
+7. Controls: Implemented correctly for different types of information
+8. Fields: Identified clearly for mandatory or optional input
+9. Annotations: Included to communicate the design to the person reviewing it
 
 ## References
 
