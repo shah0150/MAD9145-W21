@@ -16,10 +16,6 @@ module.exports = {
         link: '/assignments/'
       },
       {
-        text: 'Resources',
-        link: '/resources/'
-      },
-      {
         text: 'GitHub',
         link: 'https://github.com/'
       },
@@ -37,8 +33,10 @@ module.exports = {
         title: 'Content Modules',
         collapsable: true,
         children: [
-          '/modules/week1/',
-          '/modules/week2/'
+          '/modules/research-planning/',
+          '/modules/design-prototype/',
+          '/modules/development-testing/',
+          '/modules/finalizing-hand-off'
         ]
       },
       {
