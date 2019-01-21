@@ -21,7 +21,7 @@ The final phase is about wrapping up the final development on the required featu
 
 ## Course Outline
 
-[download the outline](/mad9145-w19/2018-2019_mad9145.pdf)
+[MAD9145 Course Outline PDF](/mad9145-w19/2018-2019_mad9145.pdf)
 
 ## Team Identity
 
