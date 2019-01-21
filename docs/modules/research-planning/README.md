@@ -195,12 +195,18 @@ We will be using a sponsored version of their system where everyone can be invit
 - Start working on Personas
 - Start working on Usage Scenarios
 
-## New UX Program at Algonquin
+## Service Design
+
+Service Design is sometimes referred to as the Evolution of UX Design.
+
+[Learn More](./service-design.md)
+
+
+## New `UX` Program at Algonquin
 
 We will be having a guest speaker come to our class in Week 3. He is the Coordinator of a new Program and is only coming for a few minutes to talk about the new Program starting this Fall - [Interdisciplinary Studies in Human-Centered Design](https://www.algonquincollege.com/mediaanddesign/program/interdisciplinary-studies-in-human-centred-design/)
 
 Here are a few related links that he sent for you.
-
 
 [Website](http://human-centred.ca)
 
@@ -213,5 +219,5 @@ Here are a few related links that he sent for you.
 
 Agile is an approach to building software and planning projects. We use our own approach to the Applied Projects but Agile comes the closest to what we do. When you work for a company chances are good that they will have a process like Agile in place for you to follow.
 
-[Notes coming soon](./)
+[Notes coming soon](./agile.md)
 
