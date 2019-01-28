@@ -10,8 +10,8 @@
 4. [Product Research](./product-research.md) - Draft Week 2, Due Week 3
 5. [Personas](./personas.md) - Draft Week 2, Due Week 3
 6. [Usage Scenarios](./usage-scenarios.md) - Draft Week 3, Due Week 4
-7. [Information Architecture](./information-architecture.md) - 
-8. [Paper Prototypes](./paper-prototype.md) - 
+7. [Information Architecture](./information-architecture.md) - Draft Week 4, Due Week 5
+8. [Paper Prototypes](./paper-prototype.md) - Draft Week 4, Due Week 5
 
 <Badge text="Development Deliverables" />
 
@@ -24,9 +24,9 @@
 
 <Badge text="UX and UI Deliverables" />
 
-1. [UI Wireframes](./wireframes.md) - 
-2. [Visual Design](./visual-design.md) - 
-3. [Interactive Visual MockUp](./mockup.md) - Due the week after Reading Week
+1. [UI Wireframes](./wireframes.md) - Draft Week 5, Due Week 6
+2. [Visual Design](./visual-design.md) - Draft Week 5, Due Week 6
+3. [Interactive Visual MockUp](./mockup.md) - Draft Week 6, Due the week after Reading Week
 4. [Client Midterm Survey](./) - Will be completed by client after your Interactive Visual Mockup
 
 <Badge text="Development Deliverables" />
@@ -38,8 +38,8 @@
 
 <Badge text="UX and UI Deliverables" />
 
-1. [Usability Testing Documentations](./test-documents.md) - 
-2. [Usability Testing Results](./test-results.md) - 
+1. [Usability Testing Documentations](./test-documents.md) - Draft Week 7, Due Week 8
+2. [Usability Testing Results](./test-results.md) -  Draft Week 8, Due Week 9
 
 <Badge text="Development Deliverables" />
 

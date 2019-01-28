@@ -11,8 +11,7 @@ Your submission will include a minimum of 3 key screens in ONE PDF file. We will
 ## References
 
 1. MAD9020 - UI Design for Mobile
-2. MAD9034 Course Notes (Week 11)
-- [MAD9034 Course Slides](https://goo.gl/JKcRx7)
+2. MAD9034 Course Notes (Week 11) & [MAD9034 Course Slides](https://goo.gl/JKcRx7)
 
 ## Submission
 
