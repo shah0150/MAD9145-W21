@@ -27,4 +27,4 @@ The interactive visual mockups tell the same story of the usage scenarios. Your 
 ## Submission
 
 Submit your finished work through BS LMS.
-- File name: _wireframes-groupname.pdf_ OR URL 
+- File name: _mockup-groupname.pdf_ OR URL 
