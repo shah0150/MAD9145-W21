@@ -229,5 +229,5 @@ Jed Looker - `lookerj@algonquincollege.com`
 
 Agile is an approach to building software and planning projects. We use our own approach to the Applied Projects but Agile comes the closest to what we do. When you work for a company chances are good that they will have a process like Agile in place for you to follow.
 
-[Notes coming soon](./agile.md)
+[Agile Notes and Links](./agile.md)
 
