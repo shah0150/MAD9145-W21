@@ -26,7 +26,7 @@
 
 1. [UI Wireframes](./wireframes.md) - Draft Week 5, Due Week 6
 2. [Visual Design](./visual-design.md) - Draft Week 5, Due Week 6
-3. [Interactive Visual MockUp](./mockup.md) - Draft Week 6, Due the week after Reading Week
+3. [Interactive Visual MockUp](./mockup.md) - Due before Reading Week
 4. [Client Midterm Survey](./) - Will be completed by client after your Interactive Visual Mockup
 
 <Badge text="Development Deliverables" />
