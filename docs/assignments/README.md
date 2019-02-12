@@ -32,7 +32,7 @@
 <Badge text="Development Deliverables" />
 
 1. [Required Features and Platforms](./features.md) - Due before Reading Week.
-2. [Technology Research Results](./tech-research.md) - Due before Reading Week 
+2. [Technology Research Results](./tech-research.md) - Due before Reading Week. 
 
 ## Development & Testing (20%)
 

@@ -6,3 +6,4 @@ There should be a reference document that includes the list of technologies and 
 
 Additionally, you should have a PUBLIC repo for each proof of concept that you reference in your document. This is what the team will use to share knowledge with each other.
 
+Please submit the link to your document and make sure your document includes links to the public repos for each technology.
