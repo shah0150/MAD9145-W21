@@ -49,10 +49,10 @@
 ## Finalizing & Client Hand-Off (30%)
 
 1. [Pre-Re/Act Demo](./pitches.md) -
-2. [ARIE RE/ACTION Day](./) -
-3. [Bug Fix Results & Feature Roadmap](./) -
-4. [Gantt Chart](./) -
+2. [ARIE RE/ACTION Day](./reaction.md) -
+3. [Bug Fix Results & Feature Roadmap](./bug-fix.md) -
+4. [Gantt Chart](./gantt.md) -
 5. [Final Code Submission](./) -
-6. [Deployment Document](./) -
+6. [Deployment Document](./deployment.md) -
 7. [Client Final Survey](./) -
 8. [Peer Review](./) -
