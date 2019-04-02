@@ -52,7 +52,7 @@
 2. [ARIE RE/ACTION Day](./reaction.md) -
 3. [Bug Fix Results & Feature Roadmap](./bug-fix.md) -
 4. [Gantt Chart](./gantt.md) -
-5. [Final Code Submission](./) -
+5. [Final Code Submission](./final-code.md) -
 6. [Deployment Document](./deployment.md) -
 7. [Client Final Survey](./) -
 8. [Peer Review](./) -
