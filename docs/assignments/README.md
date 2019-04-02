@@ -43,12 +43,12 @@
 
 <Badge text="Development Deliverables" />
 
-1. [Development Task Demos](./) -
-2. [Gantt Chart Progress](./) -
+1. [Development Task Demos](./dev-demos.md) -
+2. [Gantt Chart Progress](./gantt.md) -
 
 ## Finalizing & Client Hand-Off (30%)
 
-1. [Pre-Re/Act Demo](./) -
+1. [Pre-Re/Act Demo](./pitches.md) -
 2. [ARIE RE/ACTION Day](./) -
 3. [Bug Fix Results & Feature Roadmap](./) -
 4. [Gantt Chart](./) -
