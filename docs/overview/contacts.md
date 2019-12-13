@@ -3,15 +3,15 @@
 ## Instructors
 
 <ContactCard 
-  name="Steve Griffith"
-  title="Program Coordinator"
-  img-url="/mad9145-w19/steve-griffith.jpeg"
-  bio="Coordinator of the Mobile Application Design & Development Program at Algonquin College."
+  name="Adesh Shah"
+  title="Professor"
+  img-url="/mad9145-w19/HeadshotPlaceholder.png"
+  bio="Principal Investigator in the Data Analytics Centre and Part-time Professor at Algonquin College."
   :details="[
-      { label: 'email', value: 'griffis@algonquincollege.com' }, 
-      { label: 'github', value: 'prof3ssorSt3v3' }, 
-      { label: 'phone', value: '(613) 727-4723 x3408' }, 
-      { label: 'office', value: 'J313B' }
+      { label: 'email', value: 'shaha@algonquincollege.com' }, 
+      { label: 'github', value: 'shah0150' }, 
+      { label: 'phone', value: '(613) 727-4723 x 2970' }, 
+      { label: 'office', value: 'C270' }
     ]"
 />
 
@@ -32,6 +32,7 @@
 <ContactCard 
   name="Deborah Buck"
   title="Student Success Specialist"
+  img-url="/mad9145-w19/HeadshotPlaceholder.png"
   bio=""
   :details="[
       { label: 'email', value: 'buckd@algonquincollege.com' }, 
@@ -43,6 +44,7 @@
 <ContactCard 
   name="Jody White"
   title="Student Success Specialist"
+  img-url="/mad9145-w19/HeadshotPlaceholder.png"
   bio=""
   :details="[
       { label: 'email', value: 'whitej@algonquincollege.com' }, 
