@@ -1,7 +1,5 @@
 # Course Section Information (CSI)
 
-# These are from MAD9135... NEEDS TO BE UPDATED
-
 ## Vocational Learning Outcomes
 
 **VLO 1** Identify requirements and implement mobile solutions. (T, A)
