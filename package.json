@@ -10,6 +10,6 @@
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
-    "gitty": "git add -A && git commit -m \"general update\" && git push origin master && exit 0"
+    "gitty": "git pull origin master && git add -A && git commit -m \"general update\" && git push origin master && exit 0"
   }
 }
