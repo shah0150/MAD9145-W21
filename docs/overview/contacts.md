@@ -5,7 +5,7 @@
 <ContactCard 
   name="Adesh Shah"
   title="Professor"
-  img-url="/mad9145-w19/HeadshotPlaceholder.png"
+  img-url="/mad9145-w20/HeadshotPlaceholder.png"
   bio="Principal Investigator in the Data Analytics Centre and Part-time Professor at Algonquin College."
   :details="[
       { label: 'email', value: 'shaha@algonquincollege.com' }, 
@@ -18,7 +18,7 @@
 <ContactCard 
   name="Su Cheng Lee"
   title="Professor"
-  img-url="/mad9145-w19/HeadshotPlaceholder.png"
+  img-url="/mad9145-w20/HeadshotPlaceholder.png"
   bio="UX and UI Instructor in the Mobile Application Design & Development Program at Algonquin College."
   :details="[
       { label: 'email', value: 'lees1@algonquincollege.com' }, 
@@ -32,7 +32,7 @@
 <ContactCard 
   name="Deborah Buck"
   title="Student Success Specialist"
-  img-url="/mad9145-w19/HeadshotPlaceholder.png"
+  img-url="/mad9145-w20/HeadshotPlaceholder.png"
   bio=""
   :details="[
       { label: 'email', value: 'buckd@algonquincollege.com' }, 
@@ -44,7 +44,7 @@
 <ContactCard 
   name="Jody White"
   title="Student Success Specialist"
-  img-url="/mad9145-w19/HeadshotPlaceholder.png"
+  img-url="/mad9145-w20/HeadshotPlaceholder.png"
   bio=""
   :details="[
       { label: 'email', value: 'whitej@algonquincollege.com' }, 

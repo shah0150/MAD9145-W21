@@ -85,17 +85,17 @@ We will run this in class.
 
 #### Status Meeting Times
 
-1. 12:00pm  Kemi
-2. 12:30pm  Jervin
-3.  1:00pm  Marcus
-4.  1:30pm  Danilo
-5.  2:00pm  Jordan
+1. 12:00pm  TBD
+2. 12:30pm  TBD
+3.  1:00pm  TBD
+4.  1:30pm  TBD
+5.  2:00pm  TBD
 
 Please plan to be 10 minutes early for the meeting. The Status meetings might run late or finish early. If you are there early and the group before finished early, then you have a chance to use the extra time for your meeting.
 
 ## Software
 
-While much of the software that you use will depend on your project, we will be using Wrike as the project management software. [Wrike website](https://www.wrike.com/)
+While much of the software that you use will depend on your project, we will be using Wrike as the project management software. [Trello website](https://trello.com/)
 
 The communication software that your team uses can be chosen by your team.
 
@@ -156,9 +156,9 @@ When you are going to hold meetings with your clients, you should give them noti
 
 When sending a notice about something or a request to a client, if it is something official, then you should send it in Memo format. Below are a couple sample documents that you can use.
 
-Here is a [Sample Agenda document](/mad9145-w19/Meeting-Agenda.docx)
+Here is a [Sample Agenda document](/mad9145-w20/Meeting-Agenda.docx)
 
-Here is a [Sample Memo document](/mad9145-w19/Memo-Example.pdf)
+Here is a [Sample Memo document](/mad9145-w20/Memo-Example.pdf)
 
 Meeting Minutes can also be created based on the Meeting Agenda document. Things that you want to record from each meeting include:
 
@@ -169,9 +169,9 @@ Meeting Minutes can also be created based on the Meeting Agenda document. Things
 REMEMBER: You can also record each meeting with your phone or laptop.
 
 
-## Learning To Use Wrike
+## Learning To Use Trello (Need to be updated)
 
-Your [Wrike](https://www.wrike.com) accounts will soon be live. You will be receiving invitations to join an account and you will be assigned to a project. The team lead and design lead will be set as the owners of the project but everyone on the team will be invited to participate in the project.
+Your [Trello](https://trello.com/) accounts will soon be live. You will be receiving invitations to join an account and you will be assigned to a project. The team lead and design lead will be set as the owners of the project but everyone on the team will be invited to participate in the project.
 
 There is a free student version of Wrike, however, this is limited to 5 people on a team. 
 
