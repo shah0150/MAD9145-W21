@@ -19,7 +19,7 @@
   name="Su Cheng Lee"
   title="Professor"
   img-url="/mad9145-w20/HeadshotPlaceholder.png"
-  bio="UX and UI Instructor in the Mobile Application Design & Development Program at Algonquin College."
+  bio="UX and UI Professor in the Mobile Application Design & Development Program at Algonquin College."
   :details="[
       { label: 'email', value: 'lees1@algonquincollege.com' }, 
       { label: 'github', value: 'lees1' }
