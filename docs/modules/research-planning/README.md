@@ -21,7 +21,7 @@ The final phase is about wrapping up the final development on the required featu
 
 ## Course Outline
 
-[MAD9145 Course Outline PDF](/mad9145-w20/2018-2019_mad9145.pdf)
+[MAD9145 Course Outline PDF](/mad9145-w20/2019-2020_mad9145.pdf)
 
 ## Team Identity
 
@@ -68,7 +68,7 @@ You will be allowed to use the finished app as part of your portfolio;
 
 We will not be putting the app on the App Store or Google Play, but the client may opt to hire one or more team members to do this or future work on the app after the semester ends;
 
-Here is a copy of the [Terms & Conditions document](/mad9145-w19/terms-and-conditions-final-w19.pdf)
+Here is a copy of the [Terms & Conditions document](/mad9145-w20/terms-and-conditions-final-w20.pdf)
 
 
 ## Status Meetings
@@ -90,6 +90,7 @@ We will run this in class.
 3.  1:00pm  TBD
 4.  1:30pm  TBD
 5.  2:00pm  TBD
+6.  2:30pm  TBD
 
 Please plan to be 10 minutes early for the meeting. The Status meetings might run late or finish early. If you are there early and the group before finished early, then you have a chance to use the extra time for your meeting.
 
