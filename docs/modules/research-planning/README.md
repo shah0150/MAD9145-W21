@@ -80,7 +80,7 @@ Some of these meetings will be where you submit deliverables. Some will give you
 Attendance at these meetings is required for all team members.
 
 We will randomly select the time slot for each team using this:
-[Meeting Picker](https://prof3ssorst3v3.github.io/meeting-picker/)
+[Meeting Picker](https://shah0150.github.io/meeting-picker/)
 We will run this in class.
 
 #### Status Meeting Times
