@@ -174,7 +174,7 @@ REMEMBER: You can also record each meeting with your phone or laptop.
 
 Your [Trello](https://trello.com/) accounts will soon be live. You will be receiving invitations to join an account and you will be assigned to a project. The team lead and design lead will be set as the owners of the project but everyone on the team will be invited to participate in the project.
 
-Please invite your all team member, including Su Cheng and Adesh.
+Please invite all your team member, including Su Cheng and Adesh.
 
 <!-- [Learn More about Wrike](./wrike.md) -->
 
