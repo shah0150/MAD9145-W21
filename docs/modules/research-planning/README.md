@@ -73,7 +73,7 @@ Here is a copy of the [Terms & Conditions document](/mad9145-w20/terms-and-condi
 
 ## Status Meetings
 
-Each Thursday between 12pm and 3pm there will be team status meetings. These meetings will be held in the DARE District in room C278. Each team will have a 30 minute window for their meeting.
+Each Thursday between 12pm and 3pm there will be team status meetings. These meetings will be held in the DARE District in room C270. Each team will have a 30 minute window for their meeting.
 
 Some of these meetings will be where you submit deliverables. Some will give you an opportunity to ask questions that are specific to your team's project.
 
@@ -174,18 +174,16 @@ REMEMBER: You can also record each meeting with your phone or laptop.
 
 Your [Trello](https://trello.com/) accounts will soon be live. You will be receiving invitations to join an account and you will be assigned to a project. The team lead and design lead will be set as the owners of the project but everyone on the team will be invited to participate in the project.
 
-There is a free student version of Wrike, however, this is limited to 5 people on a team. 
+Please invite your all team member, including Su Cheng and Adesh.
 
-We will be using a sponsored version of their system where everyone can be invited, including Su Cheng and Steve.
-
-[Learn More about Wrike](./wrike.md)
+<!-- [Learn More about Wrike](./wrike.md) -->
 
 
 ## Things To Do in Week 2
 
-- Get your team into Wrike.
-- Get familiar with the features in Wrike, and how tasks will be assigned.
-- Decide on a communication tool for your team: Slack, Wrike, etc.
+- Get your team into Trello.
+- Get familiar with the features in Trello, and how tasks will be assigned.
+- Decide on a communication tool for your team: Slack, Trello, etc.
 - Do you have a standing meeting time with your client established yet?
 - Submit your Client Responses Tuesday
 - Submit your Team Branding Tuesday
@@ -205,26 +203,10 @@ Service Design is sometimes referred to as the Evolution of UX Design.
 
 ## Field Trip in Week 3 [RESCHEDULED]
 
-We are arranging a trip to see the College's Virtual Reality (VR) Lab. Anyone who is interested in coming with us is welcome. If you are not interested then you can stay in the lab and continue to work on your Personas and Usage Scenarios.
+Shopify?. Anyone who is interested in coming with us is welcome. If you are not interested then you can stay in the lab and continue to work on your Personas and Usage Scenarios.
 
-The trip to the VR lab will be happening in mid-February instead.
+The trip to the Shopify? will be happening in mid-February.
 
-
-## New `Human Centered Design` Program at Algonquin
-
-We will be having a guest speaker come to our class in Week 3. He is the Coordinator of a new Program and is only coming for a few minutes to talk about the new Program starting this Fall - [Interdisciplinary Studies in Human-Centered Design](https://www.algonquincollege.com/mediaanddesign/program/interdisciplinary-studies-in-human-centred-design/)
-
-Here are a few related links that he sent for you.
-
-[Website](http://human-centred.ca)
-
-[Visual Overview](http://bit.ly/AlgonquinCollege-ISHCD-Student-Slides)
-
-[Written Overview](http://bit.ly/AlgonquinCollege-ISHCD-Student-Overview)  includes the CLRs and more.
-
-Jed Looker - `lookerj@algonquincollege.com`
-
-[CAPCHI website](http://www.capchi.org/) for meetup information
 
 ## Agile Methodology
 
