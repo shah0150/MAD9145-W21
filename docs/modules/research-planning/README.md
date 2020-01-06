@@ -25,7 +25,7 @@ The final phase is about wrapping up the final development on the required featu
 
 ## Team Identity
 
-Your first deliverable is the [Team Identity](../assignments/identity.md) assignment. You should have a first draft of your logo completed for the status meeting during the first week. The final version of your logo and the team name are due for the start of the class in week two.
+Your first deliverable is the [Team Identity](https://shah0150.github.io/mad9145-w20/assignments/identity.html)assignment. You should have a first draft of your logo completed for the status meeting during the first week. The final version of your logo and the team name are due for the start of the class in week two.
 
 ## Team Conduct Contract
 
@@ -53,6 +53,7 @@ If you are going to be late or absent, you MUST let your team leader know BEFORE
 Every team should have a decent idea what their project is now but you need to have a full meeting with your client as soon as possible to really start to understand what you need to do. This meeting will lay the ground work for your research work during this first phase.
 
 [List of Possible Client Questions](./questions.md)
+[Client responses submission](https://shah0150.github.io/mad9145-w20/assignments/responses.html)
 
 ## Client Terms & Conditions
 
@@ -108,7 +109,7 @@ We will "_use story and its underlying structure to craft intended experiences o
  ( ideate: marketing, sales, business development, and advertising intersect with product design and development)
 * Usage Story: How your product works, how people use it, and how and why they will love using it(usage scenarios)
 
-Let's map: Log in <https://span.nureva.com>
+Let's map: [Story Mapping](https://drive.google.com/file/d/1ZF93cObjWHBBjybO3aALBf6A8Vf7eo4v/view?usp=sharing)
 1. Who is this product for? (Current State: Exposition)
 2. What is their problem? (opportunities)
 3. What is their big goal? Secondary goals? (Exposition)
