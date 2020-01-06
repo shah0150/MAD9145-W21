@@ -56,7 +56,7 @@ Every team should have a decent idea what their project is now but you need to h
 
 [Client responses submission](https://shah0150.github.io/mad9145-w20/assignments/responses.html)
 
-[Client responses submission](/mad9145-w20/assignments/responses.md)
+[Client responses submission](/assignments/responses.md)
 
 ## Client Terms & Conditions
 
