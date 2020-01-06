@@ -53,7 +53,10 @@ If you are going to be late or absent, you MUST let your team leader know BEFORE
 Every team should have a decent idea what their project is now but you need to have a full meeting with your client as soon as possible to really start to understand what you need to do. This meeting will lay the ground work for your research work during this first phase.
 
 [List of Possible Client Questions](./questions.md)
+
 [Client responses submission](https://shah0150.github.io/mad9145-w20/assignments/responses.html)
+
+[Client responses submission](../assignments/responses.md)
 
 ## Client Terms & Conditions
 
