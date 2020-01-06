@@ -4,15 +4,15 @@
 
 <Badge text="UX and UI Deliverables" />
 
-1. [Team Identity](./identity.md) - Draft Week 1, Due Week 2, Tuesday, January 14th
-2. [Client Responses](./responses.md) - Draft Week 1, Due Week 2, Tuesday, January 14th
-3. [User Journey Mapping](./) - Draft Week 1, Due Week 2, Thursday, January 16th
-3. [User Research](./user-research.md) - Draft Week 2, Due Week 2, Thursday, January 16th
-4. [Product Research](./product-research.md) - Draft Week 2, Due Week 2, January 16th
-5. [Personas](./personas.md) - Draft Week 2, Due Week 3, Tuesday, January 21st
-6. [Usage Scenarios](./usage-scenarios.md) - Draft Week 2, Due Week 3, Thursday, January 23rd
-7. [Information Architecture](./information-architecture.md) - Draft Week 2, Due Week 3, Thursday, January 23rd
-8. [Paper Prototypes](./paper-prototype.md) - Draft Week 3, Due Week 4, Thursday, January 30th
+1. [Team Identity](./identity.md) - Due Week 2, Tuesday, January 14th
+2. [Client Responses](./responses.md) - Due Week 2, Tuesday, January 14th
+3. [User Journey Mapping](./) - Due Week 2, Thursday, January 16th
+3. [User Research](./user-research.md) - Due Week 2, Thursday, January 16th
+4. [Product Research](./product-research.md) - Due Week 2, January 16th
+5. [Personas](./personas.md) - Due Week 3, Tuesday, January 21st
+6. [Usage Scenarios](./usage-scenarios.md) - Due Week 3, Thursday, January 23rd
+7. [Information Architecture](./information-architecture.md) - Due Week 3, Thursday, January 23rd
+8. [Paper Prototypes](./paper-prototype.md) - Due Week 4, Thursday, January 30th
 
 <Badge text="Development Deliverables" />
 
@@ -25,8 +25,8 @@
 
 <Badge text="UX and UI Deliverables" />
 
-1. [UI Wireframes](./wireframes.md) - Draft Week 4, Due Week 5, Thursday, February 6th
-2. [Visual Design](./visual-design.md) - Draft Week 4, Due Week 5, Thursday, February 6th
+1. [UI Wireframes](./wireframes.md) - Due Week 5, Thursday, February 6th
+2. [Visual Design](./visual-design.md) - Due Week 5, Thursday, February 6th
 3. [Interactive Visual MockUp](./mockup.md) - Due Week 6, Thursday, February 13th
 4. [Usability Testing Documentations]() - Due Week 7, Thursday, February 20th
 5. [Usability Testing Results]() - Due Week 7, Thursday, February 20th & Week 9, Tuesday, March 3rd
