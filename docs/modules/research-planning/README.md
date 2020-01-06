@@ -201,7 +201,7 @@ Service Design is sometimes referred to as the Evolution of UX Design.
 [Learn More](./service-design.md)
 
 
-## Field Trip in Week 3 [RESCHEDULED]
+## Field Trip in Week 3
 
 Shopify?. Anyone who is interested in coming with us is welcome. If you are not interested then you can stay in the lab and continue to work on your Personas and Usage Scenarios.
 
