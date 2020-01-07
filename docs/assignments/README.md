@@ -1,5 +1,7 @@
 # MAD9145 Assignments
 
+## [Project Deliverable Schedule](https://docs.google.com/spreadsheets/d/1hjVjPeckw8O9NNxu0V_Gjfuc6SZyaSfiElL5Fj1NY0U/edit?usp=sharing)
+
 ## Research & Planning (30%)
 
 <Badge text="UX and UI Deliverables" />

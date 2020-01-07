@@ -25,7 +25,7 @@ The final phase is about wrapping up the final development on the required featu
 
 ## Team Identity
 
-Your first deliverable is the [Team Identity](/assignments/identity.md)assignment. You should have a first draft of your logo completed for the status meeting during the first week. The final version of your logo and the team name are due for the start of the class in week two.
+Your first deliverable is the [Team Identity](/assignments/identity.md) assignment. You should have a first draft of your logo completed for the status meeting during the first week. The final version of your logo and the team name are due for the start of the class in week two.
 
 ## Team Conduct Contract
 
