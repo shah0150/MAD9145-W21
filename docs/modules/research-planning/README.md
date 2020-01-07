@@ -41,7 +41,7 @@ If you are going to be late or absent, you MUST let your team leader know BEFORE
 
 - <Badge type="tip" text="1st"/>: Warning
 - <Badge type="warn" text="2nd"/>: 5% off your final grade
-- <Badge type="warn" text="3rd"/>: Meeting with Steve and/or Su Cheng plus an additional 5% penalty.
+- <Badge type="warn" text="3rd"/>: Meeting with Adesh and/or Su Cheng plus an additional 5% penalty.
 - <Badge type="error" text="4th"/>: Additional 20% off your final grade
 - <Badge type="error" text="5th"/>: Removed from your team.
 
