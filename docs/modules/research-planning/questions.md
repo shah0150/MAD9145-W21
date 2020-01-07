@@ -59,7 +59,7 @@ Additional questions. Choose any that you want from this list or use these quest
 - Do you have any existing copy (text content) that needs to be incorporated in the app?
 - Do you own the copyrights for the copy and artwork?
 - Do you have a preference for an individual platform that will be used for your app?
--mDo you have a reason for wanting the app to be developed on that specific platform?
+- Do you have a reason for wanting the app to be developed on that specific platform?
 - What will your app do that a website cannot do?
 - How would you summarize what your app does in three sentences? (this will make them focus on their true goals of the app)
 - Are there any regulations about your industry / business that I should be aware of regarding your app or the content on your app?
