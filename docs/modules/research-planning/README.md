@@ -87,12 +87,20 @@ We will run this in class.
 
 #### Status Meeting Times
 
-1. 12:00pm  Clauber (cmdOps)
+<!-- 1. 12:00pm  Clauber (cmdOps)
 2. 12:30pm  Zoe (Hexly)
 3.  1:00pm  Luis (Dev.jar)
 4.  1:30pm  Dylan (Infinite Studio)
 5.  2:00pm  Tom (GenTeque)
-6.  2:30pm  Akel (Swype)
+6.  2:30pm  Akel (Swype) -->
+| Time        | Team         |
+| ------------ | ------------- |
+| 12:00 PM | Clauber (cmdOps)  |
+| 12:30 PM | Zoe (Hexly)  |
+| 1:00 PM | Luis (Dev.jar)  |
+| 1:30 PM | Dylan (Infinite Studio)  |
+| 2:00 PM | Tom (GenTeque)  |
+| 2:30 PM | Akel (Swype)  |
 
 Please plan to be 10 minutes early for the meeting. The Status meetings might run late or finish early. If you are there early and the group before finished early, then you have a chance to use the extra time for your meeting.
 
