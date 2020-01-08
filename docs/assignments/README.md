@@ -8,13 +8,13 @@
 
 1. [Team Identity](./identity.md) - Due Week 2, Tuesday, January 14th
 2. [Client Responses](./responses.md) - Due Week 2, Tuesday, January 14th
-3. [User Journey Mapping](./) - Due Week 2, Thursday, January 16th
-4. [User Research](./user-research.md) - Due Week 2, Thursday, January 16th
-5. [Product Research](./product-research.md) - Due Week 2, January 16th
-6. [Personas](./personas.md) - Due Week 3, Tuesday, January 21st
-7. [User Stories/Usage Scenarios](./usage-scenarios.md) - Due Week 3, Thursday, January 23rd
-8. [Information Architecture](./information-architecture.md) - Due Week 3, Thursday, January 23rd
-9. [Paper Prototypes](./paper-prototype.md) - Due Week 4, Thursday, January 30th
+<!-- 3. [User Journey Mapping](./) - Due Week 2, Thursday, January 16th -->
+3. [User Research](./user-research.md) - Due Week 2, Thursday, January 16th
+4. [Product Research](./product-research.md) - Due Week 2, January 16th
+5. [Personas](./personas.md) - Due Week 3, Tuesday, January 21st
+6. [User Stories/Usage Scenarios](./usage-scenarios.md) - Due Week 3, Thursday, January 23rd
+7. [Information Architecture](./information-architecture.md) - Due Week 3, Thursday, January 23rd
+8. [Paper Prototypes](./paper-prototype.md) - Due Week 4, Thursday, January 30th
 
 <Badge text="Development Deliverables" />
 
