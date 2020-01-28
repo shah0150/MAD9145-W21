@@ -11,7 +11,7 @@ Based on your work in MAD9034 last term, everyone should be familiar with the pr
 ## References
 
 MAD9034 Course Notes
-- [MAD9034 Course Slides](https://goo.gl/JKcRx7)
+- [MAD9034 Course Slides](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y?usp=sharing)
 
 ## Submission
 
