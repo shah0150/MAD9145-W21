@@ -217,6 +217,20 @@ Shopify?. Anyone who is interested in coming with us is welcome. If you are not 
 
 The trip to the Shopify? will be happening in mid-February.
 
+# Human Centered Design Program at Algonquin
+We will be having a guest speaker come to our class in Week 3. He is the Coordinator of a new Program and is only coming for a few minutes to talk about the new Program starting this Fall - Interdisciplinary Studies in Human-Centered Design
+
+Here are a few related links that he sent for you.
+
+[Website](https://www.algonquincollege.com/mediaanddesign/program/interdisciplinary-studies-in-human-centred-design/)
+
+[Visual Overview](https://drive.google.com/file/d/1xarckN-6YzwsXqRvyzhzNinlAZ7YONdT/view)
+
+[Written Overview](https://docs.google.com/document/d/1NqmoUuLRVJ8T7kuOHyG5__OXoZbW-rGggklgMo1AUzA/edit?usp=sharing) includes the CLRs and more.
+
+Jed Looker - lookerj@algonquincollege.com
+
+[CAPCHI website](http://www.capchi.org/) for meetup information
 
 ## Agile Methodology
 
