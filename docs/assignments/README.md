@@ -50,7 +50,7 @@
 
 ## Finalizing & Client Hand-Off (30%)
 
-1. [Pre-Re/Act Demo](./pitches.md) - Due Week 13, March 9th
+1. [Pre-Re/Act Demo](./pitches.md) - Due Week 13, April 7th
 2. [ARIE RE/ACTION Day](./reaction.md) - Wednesday, April 8th
 3. [Bug Fix Results & Feature Roadmap](./bug-fix.md) - Due Tuesday April 14th
 4. [Gantt Chart](./gantt.md) - Due Thursday, April 16th
