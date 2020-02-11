@@ -15,7 +15,7 @@ Prepare the following documents for usability testing:
 ## References
 
 MAD9034 Course Notes
-* [MAD9034 Course Slides](https://goo.gl/JKcRx7)
+* [MAD9034 Course Slides](http://tiny.cc/nqf6bz)
 * MAD9034 Week 12 module
 
 ## Submission
