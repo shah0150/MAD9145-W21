@@ -29,16 +29,16 @@
 
 1. [UI Wireframes](./wireframes.md) - Due Week 5, Thursday, February 6th
 2. [Visual Design](./visual-design.md) - Due Week 5, Thursday, February 6th
-3. [Interactive Visual MockUp](./mockup.md) - Due Week 6, Thursday, February 13th
+3. [Interactive Visual MockUp](./mockup.md) - Due Week 6, Thursday, February 13th, Due before Reading Week
 4. [Usability Testing Documentations]() - Due Week 7, Thursday, February 20th
 5. [Usability Testing Results]() - Due Week 7, Thursday, February 20th & Week 9, Tuesday, March 3rd
-6. [Client Midterm Survey](./) - Due Week 7, Thursday, February 20th
-7. [Client Midterm Presentation](./mid-present.md) - Due Week 9, Tuesday, March 3rd
+6. [Client Midterm Survey](./) - Due Week 7, Thursday, February 20th, Will be completed by client after your                                             Interactive Visual Mockup
+7. [Client Midterm Presentation](./mid-present.md) - Due Week 9, Tuesday, March 3rd, Partly in class, partly with client.
 
 <Badge text="Development Deliverables" />
 
-1. [Required Features and Platforms](./features.md) - Due Week 9, Tuesday, March 3rd
-2. [Technology Research Results](./tech-research.md) - Due Week 9, Tuesday, March 3rd
+1. [Required Features and Platforms](./features.md) - Due Week 9, Tuesday, March 3rd, Due before Reading Week.
+2. [Technology Research Results](./tech-research.md) - Due Week 9, Tuesday, March 3rd, Due before Reading Week.
 
 ## Development & Testing (20%)
 
