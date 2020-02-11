@@ -37,8 +37,8 @@
 
 <Badge text="Development Deliverables" />
 
-1. [Required Features and Platforms](./features.md) - Due Week 9, Tuesday, March 3rd, Due before Reading Week.
-2. [Technology Research Results](./tech-research.md) - Due Week 9, Tuesday, March 3rd, Due before Reading Week.
+1. [Required Features and Platforms](./features.md) - Due Week 9, Tuesday, March 3rd
+2. [Technology Research Results](./tech-research.md) - Due Week 9, Tuesday, March 3rd
 
 ## Development & Testing (20%)
 
