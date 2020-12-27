@@ -6,7 +6,7 @@
   name="Adesh Shah"
   title="Professor"
   img-url="/mad9145-w20/HeadshotPlaceholder.png"
-  bio="Principal Investigator in the Data Analytics Centre and Part-time Professor at Algonquin College."
+  bio="Principal Investigator at the Data Analytics Centre and Part-time Professor in the Mobile Application Design & Development Program at Algonquin College."
   :details="[
       { label: 'email', value: 'shaha@algonquincollege.com' }, 
       { label: 'github', value: 'shah0150' }, 
