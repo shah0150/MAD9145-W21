@@ -21,7 +21,9 @@ The final phase is about wrapping up the final development on the required featu
 
 ## Course Outline
 
-[MAD9145 Course Outline PDF](/mad9145-w20/2019-2020_mad9145.pdf)
+[MAD9145 Course Outline PDF](/mad9145-w20/MAD9145-2021W.pdf)
+<!-- https://brightspace.algonquincollege.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=317272&type=lti&rcode=5D0A62E3-9FCD-4186-8FE2-4DAA73394FE0-2477272&srcou=6606 -->
+
 
 ## Team Identity
 
@@ -100,9 +102,15 @@ Please plan to be 10 minutes early for the meeting. The Status meetings might ru
 
 ## Software
 
-While much of the software that you use will depend on your project, we will be using Trello or Notion as the project management software. [Trello website](https://trello.com/), [Notion](https://www.notion.so)
+While much of the software that you use will depend on your project, we will be using Trello or Notion as the project management software. [Trello website](https://trello.com/).
+
+Plugins for Trello:
+1. [Google Drive Power Up](https://trello.com/power-ups/55a5d916446f517774210006/google-drive)
+2. [GitHub](https://trello.com/power-ups/55a5d916446f517774210004)
+3. [Gantt Chart](https://trello.com/power-ups/5970d4298c14fdf691c95a76/teamgantt)
 
 The communication software that your team uses can be chosen by your team.
+1. [Slack- recommended](https://slack.com/intl/en-ca/)
 
 
 ## Journey Mapping 

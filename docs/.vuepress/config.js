@@ -1,7 +1,7 @@
 module.exports = {
   title: 'MAD9145',
   description: 'Client Applied Projects',
-  base: '/mad9145-w20/',
+  base: '/W2021/',
   themeConfig: {
     serviceWorker: {
       updatePopup: true
