@@ -21,7 +21,7 @@ The final phase is about wrapping up the final development on the required featu
 
 ## Course Outline
 
-[MAD9145 Course Outline PDF](/mad9145-w20/MAD9145-2021W.pdf)
+[MAD9145 Course Outline PDF](https://brightspace.algonquincollege.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=317272&type=lti&rcode=5D0A62E3-9FCD-4186-8FE2-4DAA73394FE0-2477272&srcou=6606)
 <!-- https://brightspace.algonquincollege.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=317272&type=lti&rcode=5D0A62E3-9FCD-4186-8FE2-4DAA73394FE0-2477272&srcou=6606 -->
 
 
@@ -72,7 +72,7 @@ You will be allowed to use the finished app as part of your portfolio;
 
 We will not be putting the app on the App Store or Google Play, but the client may opt to hire one or more team members to do this or future work on the app after the semester ends;
 
-Here is a copy of the [Terms & Conditions document](/mad9145-w20/terms-and-conditions-final-w20.pdf)
+Here is a copy of the [Terms & Conditions document](/W2021/terms-and-conditions-final-w20.pdf)
 
 
 ## Status Meetings
@@ -169,9 +169,9 @@ When you are going to hold meetings with your clients, you should give them noti
 
 When sending a notice about something or a request to a client, if it is something official, then you should send it in Memo format. Below are a couple sample documents that you can use.
 
-Here is a [Sample Agenda document](/mad9145-w20/Meeting-Agenda.docx)
+Here is a [Sample Agenda document](/W2021/Meeting-Agenda.docx)
 
-Here is a [Sample Memo document](/mad9145-w20/Memo-Example.pdf)
+Here is a [Sample Memo document](/W2021/Memo-Example.pdf)
 
 Meeting Minutes can also be created based on the Meeting Agenda document. Things that you want to record from each meeting include:
 

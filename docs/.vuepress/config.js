@@ -12,7 +12,7 @@ module.exports = {
         link: '/overview/'
       },
       {
-        text: 'Assignments',
+        text: 'Deliverables',
         link: '/assignments/'
       },
       {
@@ -40,7 +40,7 @@ module.exports = {
         ]
       },
       {
-          title: 'Assignments',
+          title: 'Deliverables',
           collapsable: true,
           children: [
               ['/assignments/#research-planning', 'Research & Planning'],

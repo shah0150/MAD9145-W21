@@ -1,4 +1,4 @@
-# MAD9145 Assignments
+# MAD9145 Deliverables
 
 ## [Project Deliverable Schedule](https://docs.google.com/spreadsheets/d/1hjVjPeckw8O9NNxu0V_Gjfuc6SZyaSfiElL5Fj1NY0U/edit?usp=sharing)
 

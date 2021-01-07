@@ -5,7 +5,7 @@
 <ContactCard 
   name="Adesh Shah"
   title="Professor"
-  img-url="/W2021/HeadshotPlaceholder.png"
+  img-url="https://i.pinimg.com/736x/6a/c0/a1/6ac0a1949f47c00eb0e96e1f8fd53a2c.jpg"
   bio="Principal Investigator at the Data Analytics Centre and Part-time Professor in the Mobile Application Design & Development Program at Algonquin College."
   :details="[
       { label: 'email', value: 'shaha@algonquincollege.com' }, 
@@ -18,7 +18,7 @@
 <ContactCard 
   name="Su Cheng Lee"
   title="Professor"
-  img-url="/W2021/HeadshotPlaceholder.png"
+  img-url="https://avatars3.githubusercontent.com/u/6496566?s=400&u=88d9becd75748bb6b49c3b70940db906ff693194&v=4"
   bio="UX and UI Professor in the Mobile Application Design & Development Program at Algonquin College."
   :details="[
       { label: 'email', value: 'lees1@algonquincollege.com' }, 
