@@ -2,7 +2,7 @@
 
 These are the demos that you perform during the status meetings on the three Thursdays before RE/Action Day.
 
-On each Thursday, during the status meeting, the team needs to present a demo of the latest version of their app and/or website.
+On every Friday, during the status meeting, the team needs to present a demo of the latest version of their app and/or website.
 
 Recommendations for fixes will be made each week.
 

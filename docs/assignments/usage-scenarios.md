@@ -10,8 +10,8 @@ There should be a minimum of four Usage Scenarios that you create for your proje
 
 ## References
 
-- MAD9034 Course Notes
-- Sample: [PESusageScenarios.pdf](/mad9145-w20/PESusageScenarios.pdf)
+- [MAD9034 Course Notes](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y?usp=sharing)
+- Sample: [PESusageScenarios.pdf](https://shah0150.github.io/mad9145-w20/PESusageScenarios.pdf)
 - [Rockin’ Life App UserStories_Personas_Scenarios](https://docs.google.com/document/d/1h4ovPUpH2-PljUncl3ptLEd2-ybx0WrqSDIqkl-wv_0/edit?usp=sharing)
 
 ## Submission

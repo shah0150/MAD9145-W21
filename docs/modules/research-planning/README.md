@@ -102,7 +102,7 @@ Please plan to be 10 minutes early for the meeting. The Status meetings might ru
 
 ## Software
 
-While much of the software that you use will depend on your project, we will be using Trello or Notion as the project management software. [Trello website](https://trello.com/).
+While much of the software that you use will depend on your project, we will be using [Trello](https://trello.com/) or [Monday](https://monday.com/) as the project management software.
 
 Plugins for Trello:
 1. [Google Drive Power Up](https://trello.com/power-ups/55a5d916446f517774210006/google-drive)

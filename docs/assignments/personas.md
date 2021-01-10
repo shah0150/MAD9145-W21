@@ -12,8 +12,9 @@ There should be a minimum of four Personas that you create for your project. The
 
 ## References
 
-MAD9034 Course Notes
-Sample: [samplePersonas.pdf](../assets/samplePersonas.pdf)
+- [MAD9034 Course Notes](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y?usp=sharing)
+- [MAD9020 Course Notes](https://drive.google.com/drive/folders/10NKQiCrXfsCbgcqM-RBrD-dckCa3FbI-?usp=sharing)
+- Sample: [samplePersonas.pdf](../assets/samplePersonas.pdf)
 
 ## Submission
 

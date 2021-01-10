@@ -4,12 +4,12 @@ heroImage: https://github.com/MAD9145/W2021/blob/gh-pages/hero.png?raw=true
 actionText: Get Started →
 actionLink: /overview/
 features:
-  - title: Thorough knowledge of User Experience Design
-    details: Explain the difference between User Interface Design (UID) and User Experience Design (UXD) in the goal-directed design process. Describe the benefits of UXD. Initiate the appropriate interaction and visual design iterations to enhance the product usability.
-  - title: User-centered design process
-    details: Apply user-centered design principles to design mobile apps. Begin with user research to identify user requirements. Communicate research findings with personas and usage scenarios. Create interactive mobile mockups to verify the solution by testing it with users.   
-  - title: Create interaction design specifications in the form of wireframe documents
-    details: Incorporate interaction design principles and platform guidelines to generate mobile UI specifications by designing various interative wireframe documents. 
+  - title: Work effectively, individually and within a team, to solve problems and deliver a reasonable mobile application to a client.
+    details: Evaluate self and team members while taking personal responsibility for fair and timely contribution to a team project. Communicate, in a timely fashion, with team members, client and course professors. Use techniques to commiunicate and support efficient project progression
+  - title: Research, analyze, design, build, test, and deploy a mobile application using an agile software development methodology
+    details: Using a variety of thinking skills, apply a systematic approach to solve the problems presented during the project. Design, build, test and deploy a mobile application based on evaluated client requirements. Create databases to support requirements and integrate within an existing system (if necessary).
+  - title: Demonstrate interm releases and the final product to the client, course professors, and others.
+    details: Prepare demonstration material, narratives and other material to properly exhibit the mobile solution to the client and other interested professionals. Install and configure the interim releases and final mobile solution to the client and course professors. Respond to situations where attention to international or intercultural sensitivity is required.
 footer: Authored by MAD9145 ~ Copyright © 2021, Algonquin College of Applied Arts and Technology
 
 ---

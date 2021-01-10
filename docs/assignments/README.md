@@ -20,7 +20,7 @@
 
 1. [Data Structures](./data-structures.md) - Due Week 5, Friday, Februaru 5th, 12:00 PM
 2. [Research and Proof of Concept List](./poc.md) - Due Week 6, Friday, February 12th, 12:00 PM
-3. [API Design]() - Due Week 7, Friday, February 16th, 9:00 AM
+3. [API Design](./api-design.md) - Due Week 7, Friday, February 16th, 9:00 AM
 4. [High Level Architecture](./architecture.md) - Due Week 7, Friday, February 16th, 9:00 AM
 
 ## Design & Prototyping (20%)
