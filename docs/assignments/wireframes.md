@@ -23,6 +23,7 @@ Make sure your wireframe document is organized for the interactive visual mockup
 ## References
 
 1. MAD9020 - UI Design for Mobile
+2. [mad9020 course slides](https://drive.google.com/drive/folders/10NKQiCrXfsCbgcqM-RBrD-dckCa3FbI-?usp=sharing)
 2. MAD9013 - Cross-Platform Web Development
 
 ## Submission

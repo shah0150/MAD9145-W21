@@ -9,36 +9,36 @@
 1. [Team Identity](./identity.md) - Due Week 2, Tuesday, January 19th, 9:00 AM
 2. [Client Responses](./responses.md) - Due Week 2, Tuesday, January 19th, 9:00 AM
 <!-- 3. [User Journey Mapping](./) - Due Week 2, Thursday, January 16th -->
-3. [User Research](./user-research.md) - Due Week 3, Friday, January 22nd, 12:00 PM
-4. [Product Research](./product-research.md) - Due Week 3, January 22nd, 12:00 PM
-5. [Personas](./personas.md) - Due Week 4, Tuesday, January 26th, 9:00 AM
-6. [User Stories/Usage Scenarios](./usage-scenarios.md) - Due Week 4, Friday, January 29th, 12:00 PM
-7. [Information Architecture](./information-architecture.md) - Due Week 4, Friday, January 29th, 12:00 PM
-8. [Paper Prototypes](./paper-prototype.md) - Due Week 5, Friday, Februaru 5th, 12:00 PM
+3. [User Research](./user-research.md) - Due Week 2, Friday, January 22nd, 12:00 PM
+4. [Product Research](./product-research.md) - Due Week 2, January 22nd, 12:00 PM
+5. [Personas](./personas.md) - Due Week 3, Tuesday, January 26th, 9:00 AM
+6. [User Stories/Usage Scenarios](./usage-scenarios.md) - Due Week 3, Friday, January 29th, 12:00 PM
+7. [Information Architecture](./information-architecture.md) - Due Week 3, Friday, January 29th, 12:00 PM
+8. [Paper Prototypes](./paper-prototype.md) - Due Week 4, Friday, February 5th, 12:00 PM
 
 <Badge text="Development Deliverables" />
 
-1. [Data Structures](./data-structures.md) - Due Week 5, Friday, Februaru 5th, 12:00 PM
-2. [Research and Proof of Concept List](./poc.md) - Due Week 6, Friday, February 12th, 12:00 PM
-3. [API Design](./api-design.md) - Due Week 7, Friday, February 16th, 9:00 AM
-4. [High Level Architecture](./architecture.md) - Due Week 7, Friday, February 16th, 9:00 AM
+1. [Data Structures](./data-structures.md) - Due Week 4, Friday, February 5th, 12:00 PM
+2. [Research and Proof of Concept List](./poc.md) - Due Week 5, Friday, February 12th, 12:00 PM
+3. [API Design](./api-design.md) - Due Week 6, Tuesday, February 16th, 9:00 AM
+4. [High Level Architecture](./architecture.md) - Due Week 6, Tuesday, February 16th, 9:00 AM
 
 ## Design & Prototyping (20%)
 
 <Badge text="UX and UI Deliverables" />
 
-1. [UI Wireframes](./wireframes.md) - Due Week 6, Friday, February 12th, 12:00 PM
-2. [Visual Design](./visual-design.md) - Due Week 7, Friday, February 16th, 9:00 AM
-3. [Interactive Visual MockUp](./mockup.md) - Due Week 7, Friday, February 19th, 12:00 PM
-4. [Usability Testing Documentations](./test-documents.md) - Due Week 8, Friday, February 26th, 12:00 PM
-5. [Usability Testing Results](./test-results.md) - Due Week 10, Tuesday, March 9th, 9:00 AM
-6. [Client Midterm Survey](./) - Due Week 8, Friday, February 26th, 12:00 PM
+1. [UI Wireframes](./wireframes.md) - Due Week 5, Friday, February 12th, 12:00 PM
+2. [Visual Design](./visual-design.md) - Due Week 6, Tuesday, February 16th, 9:00 AM
+3. [Interactive Visual MockUp](./mockup.md) - Due Week 6, Friday, February 19th, 12:00 PM
+4. [Usability Testing Documentations](./test-documents.md) - Due Week 7, Friday, February 26th, 12:00 PM
+5. [Usability Testing Results](./test-results.md) - Due Week 9, Tuesday, March 9th, 9:00 AM
+6. [Client Midterm Survey](./) - Due Week 7, Friday, February 26th, 12:00 PM
 <!-- 7. [Client Midterm Presentation](./mid-present.md) - Due Week 9, Tuesday, March 3rd, Partly in class, partly with client. -->
 
 <Badge text="Development Deliverables" />
 
-1. [Required Features and Platforms](./features.md) - Due Week 10, Tuesday, March 9th, 9:00 AM
-2. [Technology Research Results](./tech-research.md) - Due Week 10, Tuesday, March 9th, 9:00 AM
+1. [Required Features and Platforms](./features.md) - Due Week 9, Tuesday, March 9th, 9:00 AM
+2. [Technology Research Results](./tech-research.md) - Due Week 9, Tuesday, March 9th, 9:00 AM
 
 ## Development & Testing (20%)
 
@@ -46,7 +46,7 @@
 
 1. [Development Task Demos](./dev-demos.md) - Due every Tuesday from Week 10 - Week 13
 2. [Gantt Chart Progress](./gantt.md) - Due every Tuesday from Week 10 - Week 13
-3. [Testing]() - Due every Friday from Week 10 - Week 13
+3. [Testing](./testing.md) - Due every Friday from Week 10 - Week 13
 
 ## Finalizing & Client Hand-Off (30%)
 

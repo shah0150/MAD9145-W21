@@ -77,26 +77,43 @@ Here is a copy of the [Terms & Conditions document](/W2021/terms-and-conditions-
 
 ## Status Meetings
 
-Each Thursday between 12pm and 3pm there will be team status meetings. These meetings will be held in the DARE District in room C270. Each team will have a 30 minute window for their meeting.
+Every Tuesday between 12pm and 5pm there will be team status meetings. These meetings will be held on ZOOM. Each team will have a 30 minute window for their meeting. 
+
+Every Friday between 3pm and 5pm there will be team progress meetings. These meetings will be held online on ZOOM. 
 
 Some of these meetings will be where you submit deliverables. Some will give you an opportunity to ask questions that are specific to your team's project.
 
-Attendance at these meetings is required for all team members.
+Attendance at these meetings is *required* for all team members.
 
-We will randomly select the time slot for each team using this:
+<!-- We will randomly select the time slot for each team using this:
 [Meeting Picker](https://shah0150.github.io/meeting-picker/)
-We will run this in class.
+We will run this in class. -->
 
 #### Status Meeting Times
+Tuesdays: 
 
 | Time        | Team         |
 | ------------ | ------------- |
-| - | Joe VanRompaey (Premergency)  |
-| - | Alex Carmichael (Grassroots)  |
-| - | Keith Gardiner (CSE)  |
-| - | Camilo Camacho (Scrap Arts)  |
-| - | Dana Iranpanah (Indigenous)  |
-| - | Ben Bradley (Club Portal)  |
+| 12pm - 2pm | Team 4 (Scrap Arts)  |
+| 12pm - 2pm | Team 5 (Indigenous)  |
+| 12pm - 2pm | Team 6 (Club Portal)  |
+| 3pm - 5pm | Team 1 (Premergency)  |
+| 3pm - 5pm | Team 2 (Grassroots)  |
+| 3pm - 5pm | Team 3 (CSE)  |
+
+
+Fridays: 
+
+| Time        | Team         |
+| ------------ | ------------- |
+| 3:00pm | Team 6 (Club Portal)  |
+| 3:20pm | Team 4 (Scrap Arts)  |
+| 3:40pm | Team 2 (Grassroots)  |
+| 4:00pm | Team 1 (Premergency)  |
+| 4:20pm | Team 5 (Indigenous)  |
+| 4:40pm | Team 3 (CSE)  |
+
+
 
 Please plan to be 10 minutes early for the meeting. The Status meetings might run late or finish early. If you are there early and the group before finished early, then you have a chance to use the extra time for your meeting.
 
@@ -109,8 +126,9 @@ Plugins for Trello:
 2. [GitHub](https://trello.com/power-ups/55a5d916446f517774210004)
 3. [Gantt Chart](https://trello.com/power-ups/5970d4298c14fdf691c95a76/teamgantt)
 
-The communication software that your team uses can be chosen by your team.
-1. [Slack- recommended](https://slack.com/intl/en-ca/)
+The communication software:
+
+4. [Slack](https://slack.com/intl/en-ca/)
 
 
 ## Journey Mapping 
@@ -182,27 +200,26 @@ Meeting Minutes can also be created based on the Meeting Agenda document. Things
 REMEMBER: You can also record each meeting with your phone or laptop.
 
 
-## Learning To Use Trello
+<!-- ## Learning To Use Trello
 
 The team lead and design lead will be set as the owners of the project but everyone on the team will be invited to participate in the project.
 
-Please invite all your team member, including Su Cheng and Adesh.
+Please invite all your team member, including Su Cheng and Adesh. -->
 
 <!-- [Learn More about Wrike](./wrike.md) -->
 
 
 ## Things To Do in Week 2
 
-- Get your team into Trello.
-- Get familiar with the features in Trello, and how tasks will be assigned.
-- Decide on a communication tool for your team: Slack, Trello, etc.
+- Get your team into Trello or Monday.
+- Get familiar with the features in Trello or Monday, and how tasks will be assigned.
 - Do you have a standing meeting time with your client established yet?
 - Submit your Client Responses Tuesday
 - Submit your Team Branding Tuesday
-- Finish your User Research for Thursday
-- Finish your Product Research for Thursday
-- Team Code of Conduct for Thursday
-- Start compiling your Technology Research List to discuss on Thursday
+- Finish your User Research for Friday
+- Finish your Product Research for Friday
+- Team Code of Conduct for Friday
+- Start compiling your Technology Research List to discuss on Friday
 - Start working on Personas
 - Start working on Usage Scenarios
 
@@ -215,9 +232,7 @@ Service Design is sometimes referred to as the Evolution of UX Design.
 
 ## Field Trip in Week 3
 
-Shopify?. Anyone who is interested in coming with us is welcome. If you are not interested then you can stay in the lab and continue to work on your Personas and Usage Scenarios.
-
-The trip to the Shopify? will be happening in mid-February.
+TBD
 
 # Human Centered Design Program at Algonquin
 We will be having a guest speaker come to our class in Week 3. He is the Coordinator of a new Program and is only coming for a few minutes to talk about the new Program starting this Fall - Interdisciplinary Studies in Human-Centered Design

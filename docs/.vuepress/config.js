@@ -16,6 +16,10 @@ module.exports = {
         link: '/assignments/'
       },
       {
+        text: 'Modules',
+        link: '/modules/research-planning/'
+      },
+      {
         text: 'GitHub',
         link: 'https://github.com/'
       },
@@ -43,10 +47,10 @@ module.exports = {
           title: 'Deliverables',
           collapsable: true,
           children: [
-              ['/assignments/#research-planning', 'Research & Planning'],
-              ['/assignments/#design-prototyping', 'Design & Prototyping'],
-              ['/assignments/#development-testing', 'Development & Testing'],
-              ['/assignments/#finalizing-client-hand-off', 'Finalizing & Client Hand-Off']
+              ['/assignments/#research-planning-30', 'Research & Planning'],
+              ['/assignments/#design-prototyping-20', 'Design & Prototyping'],
+              ['/assignments/#development-testing-20', 'Development & Testing'],
+              ['/assignments/#finalizing-client-hand-off-30', 'Finalizing & Client Hand-Off']
           ]
       }
     ],

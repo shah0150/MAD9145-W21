@@ -11,5 +11,8 @@
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
     "gitty": "git add -A && git commit -m \"general update\" && git push origin master && exit 0"
+  },
+  "dependencies": {
+    "vuepress-plugin-reading-time": "^0.1.1"
   }
 }

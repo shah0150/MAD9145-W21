@@ -15,7 +15,7 @@ Remember that you can use your notes from MAD9034 as a reference for all this wo
 ## References
 
 MAD9034 Course Notes
-- [MAD9034 Course Slides](https://goo.gl/JKcRx7)
+- [MAD9034 Course Slides](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y?usp=sharing)
 
 ## Submission
 

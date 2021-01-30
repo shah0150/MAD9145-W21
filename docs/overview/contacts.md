@@ -16,13 +16,14 @@
 />
 
 <ContactCard 
-  name="Su Cheng Lee"
-  title="Professor"
+  name="SuCheng Lee"
   img-url="https://avatars3.githubusercontent.com/u/6496566?s=400&u=88d9becd75748bb6b49c3b70940db906ff693194&v=4"
-  bio="UX and UI Professor in the Mobile Application Design & Development Program at Algonquin College."
+  bio="Professor of the Mobile Application Design & Development program at Algonquin College"
   :details="[
-      { label: 'email', value: 'lees1@algonquincollege.com' }, 
-      { label: 'github', value: 'lees1' }
+      { label: 'email', value: 'lees1@algonquincollge.com' }, 
+      { label: 'twitter', value: '@UXResearchLab' }, 
+      { label: 'github', value: 'lees1' }, 
+      { label: 'office', value: 'Zoom - by appointment' }
     ]"
 />
 

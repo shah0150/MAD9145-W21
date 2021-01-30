@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://github.com/MAD9145/W2021/blob/gh-pages/hero.png?raw=true
+# heroImage: https://github.com/MAD9145/W2021/blob/gh-pages/hero.png?raw=true
 actionText: Get Started →
 actionLink: /overview/
 features:

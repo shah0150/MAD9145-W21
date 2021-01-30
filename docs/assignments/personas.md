@@ -14,7 +14,7 @@ There should be a minimum of four Personas that you create for your project. The
 
 - [MAD9034 Course Notes](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y?usp=sharing)
 - [MAD9020 Course Notes](https://drive.google.com/drive/folders/10NKQiCrXfsCbgcqM-RBrD-dckCa3FbI-?usp=sharing)
-- Sample: [samplePersonas.pdf](../assets/samplePersonas.pdf)
+- Sample: [samplePersonas.pdf](https://shah0150.github.io/test-W21/docs/assets/samplePersonas.pdf)
 
 ## Submission
 

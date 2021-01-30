@@ -14,7 +14,7 @@ Make sure your report leads to positive changes:
 ## References
 
 MAD9034 Course Notes
-* [MAD9034 Course Slides](http://tiny.cc/nqf6bz)
+* [MAD9034 Course Slides](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y?usp=sharing)
 * MAD9034 Week 13 module: Testing and incorporating feedback
 
 ## Submission

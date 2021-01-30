@@ -20,9 +20,9 @@ The interactive visual mockups tell the same story of the usage scenarios. Your 
 
 ## References
 
-1. MAD9020 - UI Design for Mobile
+1. [MAD9020 - UI Design for Mobile](https://drive.google.com/drive/folders/10NKQiCrXfsCbgcqM-RBrD-dckCa3FbI-?usp=sharing)
 2. MAD9013 - Cross-Platform Web Development
-3. MAD9034 – User Experience Design
+3. [MAD9034 – User Experience Design](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y?usp=sharing)
 
 ## Submission
 
